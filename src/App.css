@@ -1,0 +1,123 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.input-container{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-bottom: 20px;
+}
+.input-label{
+  text-align: left;
+  width: 200px;
+}
+.dropdown-element{
+  align-items: center;
+  display: flex;
+}
+.input{
+  width:300px;
+  height:40px;
+}
+
+.dropdown-element-text{
+  margin-left: 10px;
+}
+
+.button-submit {
+  width: 200px;
+  height: 40px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4c7daf;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button-submit:hover {background-color: #3e738e}
+
+.button-submit:focus{outline: none;}
+
+.button-submit:active {
+  background-color: #3e898e;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+.button-clean{
+  margin-right: 50px;
+  width: 200px;
+  height: 40px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #64748B;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button-clean:hover {background-color: #475569}
+
+.button-clean:focus{outline: none;}
+
+.button-clean:active {
+  background-color: #474c69;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+.button-container{
+  display: flex;
+  width: 900px;
+  justify-content: center;
+  align-items: center;
+}

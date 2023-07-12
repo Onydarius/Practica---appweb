@@ -1,0 +1,139 @@
+{
+    "students": [
+    ],
+    "groups":[
+        {
+            "id":1,
+            "subject":"TEB-1902",
+            "schedule":"08:00-11:00",
+            "classroom":"A6",
+            "students":[
+                {
+                    "id": 1,
+                    "no_ctrl": 19092042,
+                    "name": "Jesús Ricardo",
+                    "last_name": "Rubio Villalobos",
+                    "semester": 8,
+                    "carrer": 8,
+                    "rfid": "39879473898"
+                },
+                {
+                    "id": 2,
+                    "no_ctrl": 16092307,
+                    "name": "Braulio",
+                    "last_name": "Nuñez Contreras",
+                    "semester": 12,
+                    "carrer": 12,
+                    "rfid": "123456789"
+                },
+                {
+                    "id": 3,
+                    "no_ctrl": 17092013,
+                    "name": "Fernando",
+                    "lastname": "Aparicio Ponce",
+                    "semester": 8,
+                    "carrer": 8,
+                    "rfid": "641313346"
+                },
+                {
+                    "id": 4,
+                    "no_ctrl": 18092206,
+                    "name": "Andrea",
+                    "last_name": "Zuluaga González",
+                    "semester": 10,
+                    "carrer": 8,
+                    "rfid": "5555555"
+                },
+                {
+                    "id": 5,
+                    "no_ctrl": 19092001,
+                    "name": "Jose Luis",
+                    "last_name": "Carrillo",
+                    "semester": 8,
+                    "carrer": 8,
+                    "rfid": "11442122"
+                },
+                {
+                    "id": 6,
+                    "no_ctrl": 19092087,
+                    "name": "Victor",
+                    "lastname": "Hurtado Perez",
+                    "semester": 8,
+                    "carrer": 8,
+                    "rfid": "2423423423"
+                },{
+                    "id":7,
+                    "no_ctrl":18092100,
+                    "name": "Jorge Ivan",
+                    "lastname" : "Cruz Barriga",
+                    "semester": 8,
+                    "carrer": 8,
+                    "rfid": "987654321"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "subject":"TED-1903",
+            "schedule":"11:00-14:00",
+            "classroom":"A6",
+            "students":[
+                {
+                    "id": 2,
+                    "name": "Braulio",
+                    "last_name": "Nuñez Contreras",
+                    "no_ctrl": 16092307,
+                    "semester": 12,
+                    "carrer": 12,
+                    "rfid": "123456789"
+                },
+                {
+                    "id": 3,
+                    "no_ctrl": 17092013,
+                    "name": "Fernando",
+                    "lastname": "Aparicio Ponce",
+                    "semester": 8,
+                    "carrer": 8,
+                    "rfid": "641313346"
+                },
+                {
+                    "id": 4,
+                    "no_ctrl": 18092206,
+                    "name": "Andrea",
+                    "last_name": "Zuluaga González",
+                    "semester": 10,
+                    "carrer": 8,
+                    "rfid": "5555555"
+                },
+                {
+                    "id": 5,
+                    "no_ctrl": 19092001,
+                    "name": "Jose Luis",
+                    "last_name": "Carrillo",
+                    "semester": 8,
+                    "carrer": 8,
+                    "rfid": "11442122"
+                },
+                {
+                    "id": 6,
+                    "no_ctrl": 19092087,
+                    "name": "Victor",
+                    "lastname": "Hurtado Perez",
+                    "semester": 8,
+                    "carrer": 8,
+                    "rfid": "2423423423"
+                },{
+                    "id":7,
+                    "no_ctrl":18092100,
+                    "name": "Jorge Ivan",
+                    "lastname" : "Cruz Barriga",
+                    "semester": 8,
+                    "carrer": 8,
+                    "rfid": "987654321"
+                }
+            ]
+        }
+        
+
+    ]
+}
